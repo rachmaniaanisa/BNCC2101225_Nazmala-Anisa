@@ -1,0 +1,50 @@
+.banner{
+    background-color: #eb4034;
+    color: wheat;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.banner>h1{
+    font-size: 50px;
+}
+
+.banner>p{
+    font-size: 25px;
+}
+
+
+.game-content{
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.game-content>.judul{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.game-content>.penulis{
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.game-content>.penulis{
+    font-size: 13px;
+}
+
+.game-content>.jumlah-halaman{
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.game-content>.tahun-rilis{
+    font-size: 15px;
+}
+
+
+.manage-wrapper{
+    padding: 30px;
+    border-radius: 10px;
+}
